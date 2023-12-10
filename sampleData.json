@@ -1,0 +1,91 @@
+{
+    "People": [
+        {
+            "Id": 1,
+            "Name": "John Smith",
+            "Phone": "02 9988 2211",
+            "DepartmentId": 1,
+            "Address": {
+                "Street": "1 Code Lane",
+                "City": "Javaville",
+                "State": "NSW",
+                "ZIP": "0100",
+                "Country": "Australia"
+            }
+        },
+        {
+            "Id": 2,
+            "Name": "Sue White",
+            "Phone": "03 8899 2255",
+            "DepartmentId": 2,
+            "Address": {
+                "Street": "16 Bit Way",
+                "City": "Byte Cove",
+                "State": "QLD",
+                "ZIP": "1101",
+                "Country": "Australia"
+            }
+        },
+        {
+            "Id": 3,
+            "Name": "Bob O’Bits",
+            "Phone": "05 7788 2255",
+            "DepartmentId": 3,
+            "Address": {
+                "Street": "8 Silicon Road",
+                "City": "Cloud Hills",
+                "State": "VIC",
+                "ZIP": "1001",
+                "Country": "Australia"
+            }
+        },
+        {
+            "Id": 4,
+            "Name": "Mary Blue",
+            "Phone": "06 4455 9988",
+            "DepartmentId": 2,
+            "Address": {
+                "Street": "4 Processor Boulevard",
+                "City": "Appletson",
+                "State": "NT",
+                "ZIP": "1010",
+                "Country": "Australia"
+            }
+        },
+        {
+            "Id": 5,
+            "Name": "Mick Green",
+            "Phone": "02 9988 1122",
+            "DepartmentId": 3,
+            "Address": {
+                "Street": "700 Bandwidth Street",
+                "City": "Bufferland",
+                "State": "NSW",
+                "ZIP": "0110",
+                "Country": "Australia"
+            }
+        }
+    ],
+    "Departments": [
+        {
+            "Id": 0,
+            "Name": "General"
+        },
+        {
+            "Id": 1,
+            "Name": "Information Communications Technology"
+        },
+        {
+            "Id": 2,
+            "Name": "Finance"
+        },
+        {
+            "Id": 3,
+            "Name": "Marketing"
+        },
+        {
+            "Id": 4,
+            "Name": "Human Resources"
+        }
+    ]
+}
